@@ -1,5 +1,7 @@
 # Diag
 
-pip install pytest \n
+pip install pytest
+
+
 pytest  -s -vv
  
