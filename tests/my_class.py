@@ -33,8 +33,6 @@ class Diag(str):
             yield self[a - 1]
             a, b = b, a + b
 
-
-
     @staticmethod
     def _fibonacci_indices(n):
         fib_indices = [0, 1]

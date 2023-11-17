@@ -3,7 +3,7 @@ from my_class import Diag
 
 
 class TestDiag:
-    #To test: pytest  -s -vv
+
     def test_diag_str(self):
         a = Diag('abc')
         assert str(a) == 'a\n b\n  c'
