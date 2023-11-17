@@ -2,5 +2,7 @@
 
 pip install pytest
 
-Go to /tests & pytest  -s -vv
+Go to /tests 
+
+pytest  -s -vv
  
